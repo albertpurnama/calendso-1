@@ -8,7 +8,7 @@
   <h3 align="center">Cal.com (formerly Calendso)</h3>
 
   <p align="center">
-    The open-source Calendly alternative. (Albert)
+    The open-source Calendly alternative.
     <br />
     <a href="https://cal.com"><strong>Learn more »</strong></a>
     <br />
